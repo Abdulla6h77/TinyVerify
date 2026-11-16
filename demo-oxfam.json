@@ -1,0 +1,15 @@
+{
+  "name": "Oxfam",
+  "record_type": "organization registration",
+  "jurisdiction": "England and Wales",
+  "registries": {
+    "companies_house": {
+      "url": "https://find-and-update.company-information.service.gov.uk/search",
+      "hosts": ["find-and-update.company-information.service.gov.uk"]
+    },
+    "charity_commission": {
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search",
+      "hosts": ["register-of-charities.charitycommission.gov.uk"]
+    }
+  }
+}

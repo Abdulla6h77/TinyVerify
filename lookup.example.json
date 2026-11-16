@@ -1,0 +1,19 @@
+{
+  "name": "Sample Business",
+  "record_type": "business",
+  "jurisdiction": "Sample Region",
+  "registries": {
+    "first": {
+      "url": "https://registry-one.example.org/search",
+      "hosts": [
+        "registry-one.example.org"
+      ]
+    },
+    "second": {
+      "url": "https://registry-two.example.org/search",
+      "hosts": [
+        "registry-two.example.org"
+      ]
+    }
+  }
+}

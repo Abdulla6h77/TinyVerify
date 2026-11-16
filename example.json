@@ -1,0 +1,31 @@
+{
+  "name": "Sample Business",
+  "record_type": "business",
+  "jurisdiction": "Sample Region",
+  "registry_hosts": {
+    "sample": [
+      "registry.example.org"
+    ]
+  },
+  "records": [
+    {
+      "registry": "sample",
+      "name": "Sample Business",
+      "record_type": "business",
+      "jurisdiction": "Sample Region",
+      "number": "fixture-1",
+      "status": "active",
+      "expiry_date": null,
+      "disciplinary_actions": null,
+      "source_url": "https://registry.example.org/fixture-1",
+      "checked_at": "2026-11-12T10:00:00Z"
+    }
+  ],
+  "previous": [
+    {
+      "registry": "sample",
+      "number": "fixture-1",
+      "status": "expired"
+    }
+  ]
+}
